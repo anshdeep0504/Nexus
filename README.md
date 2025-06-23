@@ -2,7 +2,7 @@
 
 
 ## 🌟 Introduction
-Vetra is an AI-powered marketing automation platform that transforms your marketing workflow in seconds. Built with modern technologies, it offers a sleek interface for managing marketing campaigns, content generation, and performance analytics.
+Nexus is an AI-powered marketing automation platform that transforms your marketing workflow in seconds. Built with modern technologies, it offers a sleek interface for managing marketing campaigns, content generation, and performance analytics.
 
 
 
@@ -38,13 +38,7 @@ Vetra is an AI-powered marketing automation platform that transforms your market
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🔧 Environment Variables
 
-Create a `.env` file in the root directory:
-
-```env
-NEXT_PUBLIC_APP_URL=your_app_url
-```
 
 ## 🚀 Deploy on Vercel
 
