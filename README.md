@@ -7,13 +7,7 @@
 ## 🌟 Introduction
 Vetra is an AI-powered marketing automation platform that transforms your marketing workflow in seconds. Built with modern technologies, it offers a sleek interface for managing marketing campaigns, content generation, and performance analytics.
 
-## 🔗 Live Preview
 
-Check out the live demo of caps.ai here: [Live Preview](https://vetra-app.vercel.app/)
-
-## 🎥 Watch the Preview Video on YouTube
-
-Take a look at YouTube video by watching the demo: [Watch the Video](https://youtu.be/dfQ_WwWV6g8) 
 
 ## 💻 Tech Stack
 
@@ -28,7 +22,7 @@ Take a look at YouTube video by watching the demo: [Watch the Video](https://you
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreyas-29/vetra.git
+    git clone https://github.com/anshdeep0504/Nexus.git
     ```
 
 2. Install dependencies:
@@ -73,15 +67,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-## ☕ Buy Me a Coffee
-If you enjoy using this project, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
-
----
-
-Built with ❤️ by [Shreyas Sihasane](https://shreyas-sihasane.vercel.app)
