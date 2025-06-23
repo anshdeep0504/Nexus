@@ -1,8 +1,5 @@
 
 
-# 🚀 Vetra - AI Marketing Automation Platform
-
-<img src="https://github.com/user-attachments/assets/df541304-ea1c-4ebe-b6fd-2e093680314f" alt="Vetra Thumbnail">
 
 ## 🌟 Introduction
 Vetra is an AI-powered marketing automation platform that transforms your marketing workflow in seconds. Built with modern technologies, it offers a sleek interface for managing marketing campaigns, content generation, and performance analytics.
